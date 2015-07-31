@@ -1,1 +1,2 @@
-# ChangeBackgroundOfView
+# android自定义控件 
+##点击可以渐渐改变layout的背景颜色,实现背景颜色的渐变

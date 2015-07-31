@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!--start_color and end_color is used for set state-->
     <color name="start_color">#ff00ff00</color>
     <color name="end_color">#ff0000ff</color>
 </resources>
